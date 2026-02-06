@@ -1,7 +1,4 @@
-<img src="https://github.com/user-attachments/assets/66e91910-d6e4-46e4-a4a2-568ca5121253"
-     width="150"
-     align="left"
-      style="border-radius:50%  object-fit:cover margin-right:20px;" />
+
 # Hi 👋, I'm Madhu
 ### Java Full Stack Developer | MCA Student
 📍 Bengaluru, India  
