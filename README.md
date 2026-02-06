@@ -1,4 +1,3 @@
-
 # Hi 👋, I'm Madhu
 ### Java Full Stack Developer | MCA Student
 📍 Bengaluru, India  
