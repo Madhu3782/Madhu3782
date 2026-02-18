@@ -52,11 +52,34 @@
 
 ## 📌 Projects
 
+
+### 🛒 E-Commerce Spring Boot Application
+Full Stack E-Commerce Web Application built using **Java, Spring Boot & MySQL**.
+
+#### 🔹 Features
+- User Registration & Login
+- Product Listing & Details
+- Add to Cart
+- Checkout System
+- Order Management
+- Admin Product Management
+
+#### 🔹 Tech Stack
+Java • Spring Boot • Spring Data JPA • MySQL • Thymeleaf • HTML • CSS
+
+🔗 **GitHub Repository:**  
+https://github.com/Madhu3782/E-commerce-Spring-Boot-project
+
+---
+
 ### 🌾 Farmer Friend
 Agriculture support web application using **PHP & MySQL** helping farmers access crop guidance.
 
+---
+
 ### 🤖 Crop Recommendation System Using ML
 ML-based crop prediction system using **React, Node.js & Flask**.
+
 
 ---
 
