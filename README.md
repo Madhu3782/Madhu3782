@@ -1,24 +1,31 @@
 <div align="center">
 
-<!-- Dynamic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Madhu%20U%20C&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20MCA%20Student&descColor=a8d8ea&descAlignY=58&animation=fadeIn"/>
-
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Java+%2B+Spring+Boot+Developer;Full+Stack+Web+Developer;ML+Enthusiast;Building+Scalable+Real-World+Solutions)](https://git.io/typing-svg)
+<h1>👋 Hi, I'm Madhu U C</h1>
+<h3>☕ Java Full Stack Developer &nbsp;|&nbsp; 🎓 MCA Student &nbsp;|&nbsp; 🚀 Building Scalable Apps</h3>
 
 <br/>
 
-📍 **Bengaluru, Karnataka, India** &nbsp;|&nbsp; 🎓 **MCA @ CMR Institute of Technology** &nbsp;|&nbsp; 💼 **Open to Opportunities**
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Java+%2B+Spring+Boot+Developer;Full+Stack+Web+Developer;ML+Enthusiast;Building+Scalable+Real-World+Solutions" alt="Typing SVG" />
+</p>
 
-<a href="mailto:mmadhuuc@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/madhuuppar">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Madhu3782">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  📍 <strong>Bengaluru, Karnataka, India</strong> &nbsp;|&nbsp;
+  🎓 <strong>MCA @ CMR Institute of Technology</strong> &nbsp;|&nbsp;
+  💼 <strong>Open to Opportunities</strong>
+</p>
+
+<p>
+  <a href="mailto:mmadhuuc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/madhuuppar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Madhu3782">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 </div>
 
@@ -29,15 +36,17 @@
 ```java
 public class Madhu {
 
-    String name        = "Madhu U C";
-    String role        = "Java Full Stack Developer";
-    String education   = "MCA @ CMR Institute of Technology (CGPA: 9.2)";
-    String location    = "Bengaluru, Karnataka, India";
+    String   name      = "Madhu U C";
+    String   role      = "Java Full Stack Developer";
+    String   education = "MCA @ CMR Institute of Technology (CGPA: 9.2)";
+    String   location  = "Bengaluru, Karnataka, India";
 
     String[] languages = { "Java", "Python", "JavaScript", "SQL", "C" };
     String[] currently = { "Learning Microservices & Cloud", "Building Full Stack Projects" };
 
-    String passion     = "Transforming ideas into scalable, real-world applications 🚀";
+    void passion() {
+        System.out.println("Transforming ideas into scalable, real-world applications 🚀");
+    }
 }
 ```
 
@@ -195,8 +204,12 @@ public class Madhu {
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Madhu3782&color=38BDF8&style=for-the-badge&label=Profile+Views)
 
 **⭐ If you find my work helpful, consider starring my repositories!**
+
+<br/>
+
+*"Code is not just syntax — it's a solution waiting to happen."* 🚀
 
 </div>
