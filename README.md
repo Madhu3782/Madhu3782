@@ -6,7 +6,7 @@
 <br/>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Java+%2B+Spring+Boot+Developer;Full+Stack+Web+Developer;ML+Enthusiast;Building+Scalable+Real-World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Java+%2B+Spring+Boot+Developer;Full+Stack+Web+Developer;Building+Scalable+Real-World+Solutions" alt="Typing SVG" />
 </p>
 
 <p>
