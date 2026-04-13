@@ -38,7 +38,7 @@ public class Madhu {
 
     String   name      = "Madhu U C";
     String   role      = "Java Full Stack Developer";
-    String   education = "MCA @ CMR Institute of Technology (CGPA: 9.2)";
+    String   education = "MCA @ CMR Institute of Technology (CGPA: 9.3)";
     String   location  = "Bengaluru, Karnataka, India";
 
     String[] languages = { "Java", "Python", "JavaScript", "SQL", "C" };
@@ -182,7 +182,7 @@ public class Madhu {
 | 🎓 **Web Development Intern** | Innovant IT Solutions, Shivamogga |
 | 📜 **Learn Java Programming** | Udemy Certified |
 | 🏆 **Smart India Hackathon 2025** | Presented innovative mental health solution for students |
-| 🎯 **CGPA 9.2 (MCA)** | CMR Institute of Technology, Bangalore |
+| 🎯 **CGPA 9.3 (MCA)** | CMR Institute of Technology, Bangalore |
 | 🎯 **CGPA 9.2 (BCA)** | DVS College of Arts and Science, Shivamogga |
 
 ---
